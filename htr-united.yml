@@ -27,8 +27,8 @@ characters:
   - e
   - a
   - r
-  - n
   - i
+  - n
   - t
   - s
   - l
@@ -41,84 +41,85 @@ characters:
   - ́
   - ','
   - v
+  - .
   - f
   - q
-  - .
   - "'"
   - g
+  - ̀
   - h
   - b
-  - ̀
   - '1'
   - x
-  - ̂
-  - S
-  - j
   - '-'
+  - ̂
   - C
+  - j
+  - S
   - M
   - y
-  - D
-  - E
-  - '8'
-  - J
   - I
+  - E
+  - D
   - P
   - L
-  - '2'
-  - A
+  - J
+  - '8'
   - ⟦
   - ⟧
-  - ᵉ
-  - B
-  - V
-  - T
   - ’
-  - ¬
-  - '4'
-  - G
+  - A
+  - '2'
+  - T
+  - V
   - F
+  - '4'
+  - B
+  - ᵉ
+  - ¬
+  - G
   - R
   - N
-  - ;
-  - ᵗ
-  - '3'
   - –
-  - ʳ
+  - ;
+  - '3'
+  - ᵗ
   - '9'
+  - ʳ
   - U
-  - '5'
-  - '&'
   - ':'
+  - '5'
   - z
+  - '&'
   - '6'
   - ᵃ
-  - ⁿ
-  - (
   - )
+  - (
+  - ⁿ
   - H
   - /
   - '7'
-  - O
   - '0'
   - ̈
+  - O
+  - X
   - '?'
   - ̃
-  - ⁱ
   - Q
+  - ⁱ
   - ˢ
   - ̧
   - °
+  - —
+  - œ
   - '!'
   - ^
   - ᶜ
-  - œ
-  - X
   - ¢
   - ᵒ
+  - Z
   - '"'
   - k
-  - —
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-19/blob/master/CITATION.cff
 description: French Manuscripts of the 19th
@@ -146,11 +147,11 @@ title: FONDUE-FR-MSS-16
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-19
 volume:
-- count: 40219
+- count: 47635
   metric: characters
-- count: 93
+- count: 114
   metric: files
-- count: 1325
+- count: 1540
   metric: lines
-- count: 152
+- count: 173
   metric: regions
