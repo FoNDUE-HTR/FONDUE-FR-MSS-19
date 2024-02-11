@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "FoNDUE-FR-MSS-19"
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - family-names: Jacsont
+    given-names: Pauline
+    email: pauline.jacsont@unige.ch
+    affiliation: Geneva University
+    orcid: https://orcid.org/0000-0002-6296-3246
+  - family-names: Leblanc
+    given-names: Elina
+    email: elina.leblanc@unige.ch
+    affiliation: Geneva University
+  - family-names: Leblanc
+    given-names: Elina
+    email: elina.leblanc@unige.ch
+    affiliation: Geneva University
+  - family-names: Chappuis
+    given-names: Loraine
+    email: loraine.chappuis@unige.ch
+    affiliation: Geneva University
+  - family-names: Gabay
+    given-names: Simon
+    email: simon.gabay@unige.ch
+    affiliation: Geneva University
+    orcid: https://orcid.org/0000-0001-9094-4475
+repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-19'
+keywords:
+  - HTR
+  - french
+  - modern
+  - manuscripts
+version: 1.0
+date-released: 2024-02-11

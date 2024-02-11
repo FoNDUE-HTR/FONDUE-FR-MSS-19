@@ -1,0 +1,118 @@
+authors:
+- name: Pauline
+  orcid: 0000-0002-6296-3246
+  roles:
+  - transcriber
+  - aligner
+  - quality-control
+  surname: Jacsont
+- name: Élina
+  roles:
+  - quality-control
+  - support
+  surname: Leblanc
+- name: Loraine
+  roles:
+  - transcriber
+  surname: Chappuis
+- name: Simon
+  orcid: 0000-0001-9094-4475
+  roles:
+  - quality-control
+  - support
+  surname: Gabay
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - s
+  - n
+  - u
+  - i
+  - a
+  - o
+  - r
+  - l
+  - t
+  - d
+  - m
+  - c
+  - p
+  - .
+  - q
+  - f
+  - ','
+  - b
+  - "'"
+  - g
+  - v
+  - M
+  - j
+  - ́
+  - h
+  - ̂
+  - '&'
+  - z
+  - y
+  - x
+  - D
+  - S
+  - R
+  - ̈
+  - '8'
+  - I
+  - E
+  - ̧
+  - ^
+  - '3'
+  - '2'
+  - P
+  - B
+  - ⟦
+  - ⟧
+  - C
+  - '9'
+  - '7'
+  - '6'
+  - +
+  - Z
+  - T
+  - ;
+  - ̀
+  - L
+  - F
+  mode: NFD
+citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-19/blob/master/CITATION.cff
+description: French Manuscripts of the 19th
+format: Alto-XML
+hands:
+  count: unknown
+  precision: exact
+institutions: []
+language:
+- fra
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: FoNDUE
+project-website: https://github.com/FoNDUE-HTR
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1699'
+  notBefore: '1600'
+title: FONDUE-FR-MSS-16
+transcription-guidelines: SegmOnto
+url: https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-19
+volume:
+- count: 4293
+  metric: characters
+- count: 6
+  metric: files
+- count: 91
+  metric: lines
+- count: 15
+  metric: regions
