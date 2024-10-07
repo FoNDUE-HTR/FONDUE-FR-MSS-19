@@ -10,8 +10,7 @@ This repo contains the transcription of 19th c. French manuscripts.
 | Town  | Author  | Library                          | Shelfmark                                                          | Folios   | Date | Transcription               |
 |-------|---------|----------------------------------|--------------------------------------------------------------------|----------|------|-----------------------------|
 | Genève | Zola   | Fondation Bodmer                 | [Z-6.3*](https://bodmerlab.unige.ch/fr/constellations/autographes/barcode/1072068758) | 99        | 1893 | P. Jacsont |
-| Saint-Denis (La Réunion) | - | Archives départementales de La Réunion | IE5                                             | 15      | 1814 | L. Chappuis |
-
+| Coromandel (Mauritius) | - | National Archives of Mauritius | IE5 (registres d’affranchissement)                                             | 15      | 1814 | L. Chappuis |
 
 
 ## How to cite
