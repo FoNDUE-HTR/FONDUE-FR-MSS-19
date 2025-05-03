@@ -11,6 +11,7 @@ This repo contains the transcription of 19th c. French manuscripts.
 |-------|---------|----------------------------------|--------------------------------------------------------------------|----------|------|-----------------------------|
 | Genève | Zola   | Fondation Bodmer                 | [Z-6.3*](https://bodmerlab.unige.ch/fr/constellations/autographes/barcode/1072068758) | 99        | 1893 | P. Jacsont |
 | Coromandel (Mauritius) | - | National Archives of Mauritius | IE5 (registres d’affranchissement)                                             | 15      | 1814 | L. Chappuis |
+| Neuchâtel | Léon Berthoud | ? | ? | 22      | 1853 | J. Aubert |
 
 
 ## How to cite
