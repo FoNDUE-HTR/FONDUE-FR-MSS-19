@@ -24,6 +24,10 @@ authors:
     email: simon.gabay@unige.ch
     affiliation: Geneva University
     orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Aubert
+    given-names: Jules
+    email: jules.aubert@unine.ch
+    affiliation: Neuchâtel University
 repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-FR-MSS-19'
 keywords:
   - HTR

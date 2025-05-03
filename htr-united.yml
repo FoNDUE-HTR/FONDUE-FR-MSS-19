@@ -11,6 +11,10 @@ authors:
   - quality-control
   - support
   surname: Leblanc
+- name: Jules
+  roles:
+  - transcriber
+  surname: Aubert
 - name: Loraine
   orcid: 0000-0002-9598-9151
   roles:
@@ -21,6 +25,7 @@ authors:
   roles:
   - quality-control
   - support
+  - transcriber
   surname: Gabay
 automatically-aligned: false
 characters:
